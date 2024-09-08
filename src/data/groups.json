@@ -1,0 +1,74 @@
+[
+  {
+    "id": "596fcbe9-1bcc-48e4-b26a-65eb2172ee73",
+    "name": "Christen",
+    "date_start": "4/6/2024",
+    "members": [
+      { "id": "56dcce25-83f1-426f-bf7e-b1ae8ea24731" },
+      { "id": "df6b6c4e-0487-4b5b-a75b-dfe3401bf266" },
+      { "id": "65102386-c2c1-462e-bf8e-3695fee3424c" },
+      { "id": "a07135ba-770f-42bf-bf80-12c631a8bdcb" },
+      { "id": "85680e9c-c781-440f-8ba9-7152de5ff73b" }
+    ]
+  },
+  {
+    "id": "6313a862-70fe-43d4-90f7-f4e116cf746f",
+    "name": "Bronnie",
+    "date_start": "3/25/2024",
+    "members": [
+      { "id": "744366b8-ea27-4560-af57-764001fc693d" },
+      { "id": "984735ac-8ab8-4457-89ca-961ebe6d6a9a" },
+      { "id": "c3d2469f-605c-463f-b2aa-6dadd2e2840b" },
+      { "id": "4c164dd1-dd1c-4e9e-847c-7c595e6e1451" },
+      { "id": "4b9ca9e6-0453-4a06-a673-2b59dc1f7371" }
+    ]
+  },
+  {
+    "id": "994a5959-1b30-42a2-8bc5-b208d906a032",
+    "name": "Darci",
+    "date_start": "2/17/2024",
+    "members": [
+      { "id": "fb38ff38-960e-4dd4-a1c9-eebfc5ed392f" },
+      { "id": "71565504-3ead-4f10-93c3-24b26bb0fa4e" },
+      { "id": "ec83bb96-2334-4430-b0ba-0c3055f619de" },
+      { "id": "aeb8eea5-04ec-4dbf-b447-454dbd34e95d" },
+      { "id": "c59e52bc-fbe3-4519-a5ff-47912f889cfe" }
+    ]
+  },
+  {
+    "id": "62d26e8a-8a68-479c-bfd2-a0e61ce2feca",
+    "name": "Buddy",
+    "date_start": "9/3/2024",
+    "members": [
+      { "id": "cc1143aa-ee7f-4ac6-ad04-1d5166456bc2" },
+      { "id": "ed6593e3-d761-4034-942c-3d088559da66" },
+      { "id": "a9b1744d-20d4-42ae-b707-d320b922d07e" },
+      { "id": "bd6a649b-310d-4ca1-88be-bbbf9a7bb6d4" },
+      { "id": "0f49d8fc-cdcb-48cc-9e5a-80f35d987412" }
+    ]
+  },
+  {
+    "id": "0f2382d8-2be0-4182-b6f9-eb08b3eb188a",
+    "name": "Arabel",
+    "date_start": "7/5/2024",
+    "members": [
+      { "id": "575652dd-edb6-44d7-bd97-affb895012f4" },
+      { "id": "8d058d4c-3ae9-4887-9b01-5469ec67ba34" },
+      { "id": "d807280a-848c-482d-8fe7-d125b557fea6" },
+      { "id": "9b12c41d-fc93-48b7-9272-46572caa3ecd" },
+      { "id": "4d5ba074-8c4c-4b07-af47-52a07a17c2b0" }
+    ]
+  },
+  {
+    "id": "3401d5a1-a20a-4d88-9a59-a7a1daf11ddd",
+    "name": "Valera",
+    "date_start": "9/18/2023",
+    "members": [
+      { "id": "e6c062d7-1c20-4efc-a716-a872c6312728" },
+      { "id": "c1bc8ee5-712d-4738-a484-ba77311bab5a" },
+      { "id": "f062bb85-cc91-4419-8ea3-7236a87c544e" },
+      { "id": "dc6f1d9d-3046-464e-9261-e98a49c4c25d" },
+      { "id": "0bc6d6c7-b4b0-487a-9d92-ff0390a0c378" }
+    ]
+  }
+]

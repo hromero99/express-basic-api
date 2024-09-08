@@ -1,0 +1,87 @@
+[
+  {
+    "id": "466e7ba4-2831-4f9d-9c58-051fdc0994cc",
+    "number": 1,
+    "description": "DevOps Practices"
+  },
+  {
+    "id": "17428475-a033-492e-90de-e2f6079c8497",
+    "number": 2,
+    "description": "UI/UX Design Concepts"
+  },
+  {
+    "id": "21ffc22e-e88e-4c62-8479-1d6544e3969a",
+    "number": 3,
+    "description": "Cloud Computing Basics"
+  },
+  {
+    "id": "38cab2fd-97ad-439a-8d13-1e06d072da06",
+    "number": 4,
+    "description": "Cybersecurity Essentials"
+  },
+  {
+    "id": "e43dbe63-581e-434f-98bd-2f49f0bb7b72",
+    "number": 5,
+    "description": "Artificial Intelligence Fundamentals"
+  },
+  {
+    "id": "7c8b2726-15e9-43be-9dbb-8cd17c7c64c9",
+    "number": 6,
+    "description": "Web Development Fundamentals"
+  },
+  {
+    "id": "51f8f304-d7e2-4f63-8517-512c8df81f3e",
+    "number": 7,
+    "description": "Blockchain Technology Overview"
+  },
+  {
+    "id": "108efebd-15b4-4c91-b414-b9d325b7ad18",
+    "number": 8,
+    "description": "UI/UX Design Concepts"
+  },
+  {
+    "id": "5a85e35d-0fc8-46c9-bd00-40232a6d17a1",
+    "number": 9,
+    "description": "Digital Marketing Essentials"
+  },
+  {
+    "id": "2a528b1c-a69e-4332-b3e5-c6f6bf3b7371",
+    "number": 10,
+    "description": "Internet of Things (IoT) Fundamentals"
+  },
+  {
+    "id": "00e13331-6cf7-48fc-b9a5-6ea8ffbec343",
+    "number": 11,
+    "description": "UI/UX Design Concepts"
+  },
+  {
+    "id": "e9e9caca-bab5-4806-8b4f-664e3dc3479f",
+    "number": 12,
+    "description": "Blockchain Technology Overview"
+  },
+  {
+    "id": "e144da12-0b79-4ae2-abab-7b78906a2868",
+    "number": 13,
+    "description": "Blockchain Technology Overview"
+  },
+  {
+    "id": "91831951-c3ed-4dac-ba89-839af548a16a",
+    "number": 14,
+    "description": "Cybersecurity Essentials"
+  },
+  {
+    "id": "7cf4f0be-3753-4a2d-a183-0938375600df",
+    "number": 15,
+    "description": "DevOps Practices"
+  },
+  {
+    "id": "d2d71d98-9d24-445f-a405-9e89f836763b",
+    "number": 16,
+    "description": "Internet of Things (IoT) Fundamentals"
+  },
+  {
+    "id": "64094c07-7576-42fa-9bd6-c9abcf8489a5",
+    "number": 17,
+    "description": "Game Development Principles"
+  }
+]
