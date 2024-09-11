@@ -5998,5 +5998,19 @@
     "first_name": "Valentia",
     "last_name": "Hamson",
     "email": "vhamsonrr@forbes.com"
+  },
+  {
+    "first_name": " Hector",
+    "last_name": "Romero",
+    "email": "hector@hromerol.es",
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "id": "e3b79501-ed95-43c9-987e-343fd4354f1a"
+  },
+  {
+    "first_name": " Hector",
+    "last_name": "Romero",
+    "email": "hector2@hromerol.es",
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "id": "66b4bccf-d684-4e84-938f-edbec0286786"
   }
 ]
